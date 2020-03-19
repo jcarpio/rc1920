@@ -23,4 +23,5 @@
 4. Como hemos visto en clase, el uso reversible de los predicados es una característica muy potente de Prolog. Haga uso
    de una combinación de los predicados concatenar e invertir en el que se utilice esta técnica.
    
+Responda a estas cuestiones creando un nuevo fichero en su repositorio de GitHub para la asignatura de Representación del Conocimiento y comparta el repositorio con el usuario jcarpio.
    
