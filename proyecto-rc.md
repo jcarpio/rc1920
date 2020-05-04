@@ -26,11 +26,9 @@ la originalidad del trabajo, la claridad en las explicaciones y el correcto func
 
 Se realizarán dos entregas:
 
-### La primera, (entregra a mitad del proyecto) a final de mayo en fecha por concretar. En esta entrega deben 
-    presentarse versiones preliminares tanto del trabajo teórico como del trabajo práctico.
+### La primera, (entregra a mitad del proyecto) a final de mayo en fecha por concretar. En esta entrega deben presentarse versiones preliminares tanto del trabajo teórico como del trabajo práctico.
     
-### La segunda en la fecha oficial del examen de Representación del conocimiento. En esta segunda fecha debe entregarse
-    los documentos finales de la parte teórica y la parte práctica.
+### La segunda en la fecha oficial del examen de Representación del conocimiento. En esta segunda fecha debe entregarse los documentos finales de la parte teórica y la parte práctica.
 
 Bibliografía
 
