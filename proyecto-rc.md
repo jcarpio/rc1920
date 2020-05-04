@@ -2,7 +2,7 @@
 # Curso 2019-2020
 ### Versión del documento: 1.0.0
 
-**Importante: este documento puede sufrir modificaciones durante el transcurso del cuatrimestre. Por favor, consulte la última versión del mismo en este repositorio** https://github.com/jcarpio/rv1920
+**Importante: este documento puede sufrir modificaciones durante el transcurso del cuatrimestre. Por favor, consulte la última versión del mismo en este repositorio** https://github.com/jcarpio/rc1920/edit/master/proyecto-rc.md
 
 
 ## Descripción del proyecto:
