@@ -30,7 +30,7 @@ Se realizarán dos entregas:
     
 ### La segunda en la fecha oficial del examen de Representación del conocimiento. En esta segunda fecha debe entregarse los documentos finales de la parte teórica y la parte práctica.
 
-Bibliografía
+### Bibliografía
 
 [1] What is Knowledge Representation in AI? Techniques You Need To Know 
 https://www.edureka.co/blog/knowledge-representation-in-ai/
