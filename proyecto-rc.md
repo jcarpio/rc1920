@@ -10,6 +10,7 @@
 ### https://github.com/Riickyr91/Representacion-del-Conocimiento-19-20/tree/master/ProyectoFinal
 ### https://github.com/FranBeltranM/RC1920/tree/master/Evaluacion
 ### https://github.com/BoxLover/clpz
+### https://github.com/IgorMy/RC19-20/tree/master/Evaluaci%C3%B3n
 
 
 ## Descripción del proyecto:
