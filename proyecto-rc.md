@@ -9,6 +9,7 @@
 ### https://github.com/Jose-JGC/rc1920-1/blob/master/PrologDesde0_2.md
 ### https://github.com/Riickyr91/Representacion-del-Conocimiento-19-20/tree/master/ProyectoFinal
 ### https://github.com/FranBeltranM/RC1920/tree/master/Evaluacion
+### https://github.com/BoxLover/clpz
 
 
 ## Descripción del proyecto:
