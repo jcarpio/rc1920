@@ -5,6 +5,10 @@
 **Importante: este documento puede sufrir modificaciones durante el transcurso del cuatrimestre. Por favor, consulte la última versión del mismo en este repositorio** https://github.com/jcarpio/rc1920/edit/master/proyecto-rc.md
 
 
+## Proyectos realizados
+### https://github.com/Jose-JGC/rc1920-1/blob/master/PrologDesde0_2.md
+
+
 ## Descripción del proyecto:
 
 El proyecto constará de dos partes:
