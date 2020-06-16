@@ -16,6 +16,7 @@
 ### https://github.com/Narovik/rc1920
 ### https://github.com/Joseram0n/ProyectoRc2020
 ### https://github.com/JesusDJ98/Representacion-del-Conocimiento
+### https://github.com/nordin-lab (Sistema experto Covid-19 y Soduku)
 
 
 ## Descripción del proyecto:
