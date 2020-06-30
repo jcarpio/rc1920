@@ -18,6 +18,12 @@
 ### https://github.com/JesusDJ98/Representacion-del-Conocimiento
 ### https://github.com/nordin-lab (Sistema experto Covid-19 y Soduku)
 ### https://github.com/Pablo942/RC-2020-Pablo-Pizarro-Sanchez
+### https://github.com/davidcamperom/SistemaExperto
+### https://github.com/byLiTTo/SistemaExperto
+### https://github.com/pabletecor/rc1920
+### https://github.com/josedaog/rc1920
+### https://github.com/Jose-JGC/rc1920-1
+### https://github.com/AntonioMorano/Representacion-del-conocimiento
 
 
 ## Descripción del proyecto:
